@@ -1,0 +1,25 @@
+/* Footer section */
+
+.footer{width: 100%;  padding: 50px 60px;background: #fff;}
+
+.footer ul{list-style-type:none; display:inline-flex; margin:0; padding:0}
+.footer ul li{margin-right:20px;}
+.footer ul li a{color:#444; font-size:16px; font-family:'Work Sans Medium'; font-weight:normal; font-style:normal;}
+.footer ul li a:hover{color:#aacc88; text-decoration:none;}
+
+.footer .social{float:right;}
+.footer .social ul{list-style-type:none; display:inline-flex; margin:0; padding:0}
+.footer .social ul li{margin-right:20px;}
+.footer .social ul li a{color:#ff8800; font-weight:600; font-size:16px; font-family:inherit; margin-right:10px;}
+.footer .social ul li a:hover{color:#aacc88; text-decoration:none;}
+
+.footer .terms ul{list-style-type:none; display:inline-flex; margin:0; padding:0}
+.footer .terms ul li{margin-right:20px;}
+.footer .terms ul li p{color: #444; font-size: 12px;margin: 4px;  padding:0; font-family:'Work Sans Regular'; font-weight:normal; font-style:normal}
+.footer .terms ul li a{color:#444; font-size:12px; font-family:'Work Sans Regular'; font-weight:normal; font-style:normal}
+.footer .terms ul li a:hover{color:#aacc88; text-decoration:none;}
+
+.profile-section .profile-right-side p.text-danger{
+    margin: 0 0 1px 0;
+    font-size: 13px;
+}
